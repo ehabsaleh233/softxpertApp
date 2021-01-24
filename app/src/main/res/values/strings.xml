@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Softxpert</string>
+    <string name="fail_message"><![CDATA["    <string name=\"fail_message\">Trouble connecting to the Internet try again</string> "]]></string>
+</resources>
